@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACA,uBAAwB;EACvB,QAAQ,EAAE,QAAQ;EAClB,2CAAoB;IACnB,OAAO,EAAE,CAAC;IACV,MAAM,EAAE,CAAC;IACT,UAAU,EAAE,IAAI;IAChB,gEAAuB;MACtB,OAAO,EAAE,YAAY;MACrB,qFAAuB;QACtB,WAAW,EAAE,GAAG",
+"sources": ["yii.social-share.scss"],
+"names": [],
+"file": "yii.social-share.css"
+}

@@ -1,0 +1,15 @@
+
+.social-share-container {
+	position: relative;
+	.social-share-items {
+		padding: 0;
+		margin: 0;
+		list-style: none;
+		& > .social-share-item {
+			display: inline-block;
+			& + .social-share-item {
+				margin-left: 1em;
+			}
+		}
+	}
+}

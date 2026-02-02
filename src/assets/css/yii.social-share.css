@@ -1,0 +1,12 @@
+.social-share-container {
+  position: relative; }
+  .social-share-container .social-share-items {
+    padding: 0;
+    margin: 0;
+    list-style: none; }
+    .social-share-container .social-share-items > .social-share-item {
+      display: inline-block; }
+      .social-share-container .social-share-items > .social-share-item + .social-share-item {
+        margin-left: 1em; }
+
+/*# sourceMappingURL=yii.social-share.css.map */
